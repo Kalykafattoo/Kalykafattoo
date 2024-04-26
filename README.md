@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kalykafattoo
+- 👋 Hi, I’m Karoline Favretto Brown
 - 👀 I’m interested in technology, innovation, sustainability, my family and hobbies...
 - 🌱 I’m currently learning Information Technology at UVU!
 - 💞️ I’m looking to collaborate on software building and looking for a internship! Right now I am working in a Call Center
