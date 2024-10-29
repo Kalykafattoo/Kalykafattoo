@@ -13,8 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=false&theme=omni"
+    srcset="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
-  
-](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true" />
+</picture>
