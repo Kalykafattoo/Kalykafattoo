@@ -17,8 +17,10 @@ You can click the Preview link to take a look at your changes.
   <source srcset="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true" />
-
-<div>
+</picture>
+</div>
+<picture>
+div>
   <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalykafattoo&layout=compact&langs_count=8&card_width=320" />
 </a>
@@ -27,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
   
-</div>
+
 
 <di>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="30" width="40"/>
