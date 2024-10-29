@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true" />
 </picture>
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalykafattoo&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalykafattoo&layout=compact)
 </div>
 
   
