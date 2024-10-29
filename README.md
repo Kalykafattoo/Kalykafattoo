@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <picture>
 div>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalykafattoo&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalykafattoo&layout=compact&langs_count=8&card_width=220" />
 </a>
 </a>
 </div>
