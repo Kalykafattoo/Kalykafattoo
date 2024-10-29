@@ -19,9 +19,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true" />
 </picture>
 </div>
-##
+
 <di>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="30 width="40"/> 
+##
   </div>
