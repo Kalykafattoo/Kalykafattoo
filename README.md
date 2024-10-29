@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
     media="(prefers-color-scheme: dark)"
   />
   
+](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
