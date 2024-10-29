@@ -10,6 +10,7 @@
 Kalykafattoo/Kalykafattoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Kalykafattoo&show_icons=true&theme=dracula"
@@ -22,16 +23,18 @@ You can click the Preview link to take a look at your changes.
 <picture>
 div>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalykafattoo&layout=compact&langs_count=8&card_width=220&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalykafattoo&layout=compact&langs_count=8&card_width=220&theme=dracula" />
 </a>
 </a>
 </div>
 </picture>
-
-  
-
-
-<di>
+<hr>
+<div>
+  <a href= "mailtokaroline.f.brown@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href=" https://www.linkedin/in/Karoline-fbrown" target="_blank"><imag src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<hr>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="30 width="40"/> 
